@@ -6,7 +6,7 @@
 Summary:	Utility library for i18n relied on by various Repoze and Pyramid packages
 Name:		python-%{module}
 Version:	1.1
-Release:	1
+Release:	2
 License:	BSD-like (http://repoze.org/license.html)
 Group:		Libraries/Python
 Source0:	http://pypi.python.org/packages/source/t/translationstring/%{module}-%{version}.tar.gz
